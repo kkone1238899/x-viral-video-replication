@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：对标账号快速复制起号。
 
-**来源**：[dingtom336-gif/viral-video-replicator](https://github.com/dingtom336-gif/viral-video-replicator) · ⭐43 · 更新于 2026-04-01
+**来源**：[dingtom336-gif/viral-video-replicator](https://github.com/dingtom336-gif/viral-video-replicator) · ⭐51 · 更新于 2026-10-26
 
 ### hypit
 
@@ -166,6 +166,71 @@
 
 **来源**：[@brainextends](https://x.com/brainextends/status/2110814597653664113)（2026-10-15；午档窗口内漏收，晚档补录）
 
+### video-prompt-reverse（LunarXuan）
+
+**核心提炼**
+- 解决什么问题：拿到参考视频却写不出可执行的生成提示词——Codex skill 把视频反推成逐镜头生成规格、证据帧、中英成对提示词包。
+- 核心用法（3 步）：1) 把仓库拷进 Codex skills 目录，说“视频反推提示词”触发 → 2) 输出逐镜头规格 + 证据帧 + 中英提示词 → 3) 按 Veo/Sora/Kling/Wan 做模型适配后生成。
+- 什么时候用 / 常见坑：把参考片逆向成可复用规格时用；作者明言文字提示词侧重语义与电影感相似度，不保证逐帧一致重建；暂无 LICENSE，商用前留意。
+
+**适用场景**：用 Codex 做 AI 视频、想把参考片逆向成可复用规格的创作者。
+
+**怎么用它搞钱**：把竞品爆款批量反推成提示词翻拍起号，或提供“爆款视频反推拆解”代拆服务按条收费。
+
+**来源**：[LunarXuan/video-prompt-reverse](https://github.com/LunarXuan/video-prompt-reverse) · ⭐63 · 更新于 2026-10-23（最近代码提交 2026-09-04）
+
+### video-prompt-reverse（luozhilzh）
+
+**核心提炼**
+- 解决什么问题：开源反推多为“抽帧 + 描述画面”，不描述运动、没有迭代回路——本条把运动设计做成一等维度，并叠加惊艳增强层。
+- 核心用法（3 步）：1) 纯 Markdown 零代码，整段 SKILL.md 粘进任意长指令工具即用，也可放进 WorkBuddy/Cursor/Claude Code/Codex 的 skills 目录 → 2) 先出忠实还原版，再叠加运动/运镜/色彩/节奏的惊艳增强版，给 3 个差异化方向并转写成 10+ 平台原生语法 → 3) 生成不满意按诊断矩阵定位维度、逐段重生、种子锁定再跑。
+- 什么时候用 / 常见坑：不想装代码工具、只想用一段长指令反推时用；附视频专属负向词库（morphing/flicker/身份漂移/文字漂移）与防深伪护栏（不克隆可识别真人）。
+
+**适用场景**：做国内平台（可灵/即梦/海螺/智谱清影/通义万相）复刻、想用长指令快速反推的创作者。
+
+**怎么用它搞钱**：用“还原 + 惊艳增强”两档给商家出同款爆款结构代做单，或把反推 + 迭代做成复刻工作流卖给短视频团队。
+
+**来源**：[luozhilzh/video-prompt-reverse](https://github.com/luozhilzh/video-prompt-reverse) · ⭐48 · MIT · 更新于 2026-10-28
+
+### video-prompt-reverse-engineer（coolxxxx）
+
+**核心提炼**
+- 解决什么问题：反推出的提示词拿到 Seedance 里水土不服——本条直接输出 Seedance 2.0/2.5 原生格式。
+- 核心用法（3 步）：1) 装 skill 后上传参考视频，说“用完整专业版逐镜头拆解”或“反推成 Seedance 2.5 的提示词” → 2) 通用版出七要素拆解 + 成品提示词 + 负面提示词，专业版出 18 维度逐镜头时间轴 + 全局风格锚定 → 3) Seedance 版按官方语法改写：@引用多模态参考、分时段描述、音频括号语法（音乐()/音效<>/对白{}/字幕【】）。
+- 什么时候用 / 常见坑：主攻即梦/Seedance 复刻时用；作者声明只学镜头逻辑与视觉方法，不复刻真实人物、品牌、台词与版权音乐。
+
+**适用场景**：主攻即梦/Seedance 复刻爆款的创作者，广告/短剧/MV 多镜头复刻需求方。
+
+**怎么用它搞钱**：接 Seedance 同款复刻代做单（广告/短剧/MV），或把“参考片 → Seedance 原生提示词”做成标准化交付流程。
+
+**来源**：[coolxxxx/video-prompt-reverse-engineer](https://github.com/coolxxxx/video-prompt-reverse-engineer) · ⭐23 · MIT · 更新于 2026-10-24（最近代码提交 2026-09-03）
+
+### reverse-video-prompt（zhengzhentao86）
+
+**核心提炼**
+- 解决什么问题：反推一次不像就卡住——本条把“原片 vs 生成片差异诊断 + 提示词迭代 + 经验沉淀”做成闭环，专攻 UGC 电商复刻。
+- 核心用法（3 步）：1) 克隆到 Codex skills 目录，说“使用 reverse-video-prompt 帮我把这个视频反推出可直接生成同类视频的提示词” → 2) 先锁产品类别/卖点/镜头意图/证明动作与前 3 秒产品钩子 → 3) 生成片与原片比对后按画面/音频/物理逻辑/产品显著性/人物真实感诊断，输出新版提示词，值得沉淀的经验写回 skill。
+- 什么时候用 / 常见坑：TikTok/Reels/Shorts UGC 与 TikTok Shop 电商带货视频复刻时用；安装脚本会打印作者微信与知识库链接，属作者引流，不影响 skill 本体使用。
+
+**适用场景**：做 TikTok/Reels/Shorts UGC 与 TikTok Shop 电商带货视频复刻的卖家与代运营。
+
+**怎么用它搞钱**：给电商品牌做“爆款带货视频同款复刻 + 迭代优化”代运营，按条或按效果收费。
+
+**来源**：[zhengzhentao86/reverse-video-prompt](https://github.com/zhengzhentao86/reverse-video-prompt) · ⭐59 · MIT · 更新于 2026-10-28
+
+### dance-video-to-prompt（CattleZ）
+
+**核心提炼**
+- 解决什么问题：跳舞/变装/穿搭类短视频反推最容易丢动作细节与节奏卡点——本条用密帧抽帧 + 清晰度救援 + BPM 分析保住动作与卡点。
+- 核心用法（3 步）：1) 本地 ≤10 秒短视频走 scripts/run_extract.sh：密帧抽帧、关键帧清晰度检测与邻帧救援、音轨节奏/BPM 分析 → 2) 输出固定 7 段提示词（视觉风格/场景叙述/拍摄场景/摄影技术/动作清单/对白文字/背景声音），动作清单强制含左右肢、角度/幅度、手型、视线、面部表情变化 → 3) Skill/Agent 版免配 Vision API（会话内看图），CLI/API 版可批量无人值守。
+- 什么时候用 / 常见坑：动作与卡点不能丢的舞蹈/变装/穿搭/旅行打卡复刻时用；暂无 LICENSE，商用前留意；输出目录默认不入库。
+
+**适用场景**：复刻舞蹈/变装/穿搭/旅行打卡类爆款的创作者，动作与卡点不能丢的场景。
+
+**怎么用它搞钱**：批量反推舞蹈/穿搭爆款做同款矩阵号，或接“动作类爆款反推 + 卡点复刻”代做单。
+
+**来源**：[CattleZ/dance-video-to-prompt](https://github.com/CattleZ/dance-video-to-prompt) · ⭐146 · 更新于 2026-10-27（最近代码提交 2026-08-22）
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -195,6 +260,7 @@
 
 ## 更新日志
 
+- 2026-10-29 早档：新增 5 个 GitHub 项目条目（LunarXuan/video-prompt-reverse、luozhilzh/video-prompt-reverse、coolxxxx/video-prompt-reverse-engineer、zhengzhentao86/reverse-video-prompt、CattleZ/dance-video-to-prompt，均为反推类；另刷新 dingtom336-gif/viral-video-replicator 星数 43→51），条目总数 17；X 侧浏览器任务已跑至作者时间线抽查阶段但收尾报告未送达，X 新增本档记 0、待午/晚档补录
 - 2026-10-15 晚档：新增 3 个 X 来源条目（@superfang119 观默代码动效复刻法、@superfang119 动效卡库复刻法、@brainextends Saveo 爆款格式拆解（午档窗口内漏收、晚档补录）），条目总数 12
 - 2026-10-15：新增 5 个 X 来源条目（@brainextends AI UGC 五步复刻、@wonfull888 video-to-prompt 反推 skill、@jonnyscales UGC 逆向三要素、@double_burger_2 素材库对标法、@xiyue0803 词锚点批量复刻），条目总数 9
 - 2026-10-12：条目升级为小节式（核心提炼/适用场景/怎么用它搞钱），新增 2 个项目，Star 全部重新核验
