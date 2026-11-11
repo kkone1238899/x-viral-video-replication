@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：矩阵号批量复刻爆款起号，或给品牌做"同款爆款结构"代运营。
 
-**来源**：[hypit-ai/hypit](https://github.com/hypit-ai/hypit) · ⭐29098 · 更新于 2026-11-09
+**来源**：[hypit-ai/hypit](https://github.com/hypit-ai/hypit) · ⭐29219 · 更新于 2026-11-11
 
 ### AI-Youtube-Shorts-Generator
 
@@ -535,6 +535,71 @@
 
 **来源**：[@everygen_ai](https://x.com/everygen_ai/status/2120259666307367124)（2026-11-11；正文与时间戳经 fxtwitter API 核验）
 
+### @kuibenge《Codex＋剪映：6 条同款素材自动混剪复刻抖音爆款带货视频》
+
+**核心提炼**
+- 解决什么问题：想 1:1 复刻抖音爆款带货视频、以后扔素材就能自动出片——让 Codex 直接写剪映工程，把选镜头、混剪、配音、加音效整条链自动化。
+- 核心用法（5 步）：1) GitHub 上找剪映自动化项目，装好 Python/Node.js/FFmpeg，让 Codex 生成剪映草稿（坑：草稿版本与本地剪映不兼容，作者升到剪映 5.9 才解决）→ 2) 找 6 条同款商品带货视频全扔给 Codex，让它分析镜头、挑选素材、自动混剪 → 3) 第一版 20 秒：各截一段机械拼接，还混进一个露脸镜头；问题：没有声音、没有完整字幕 → 4) 第二版：按动作、画面质量、节奏重新挑镜头并禁止露脸，Codex 逐帧分析筛选、调整镜头顺序，看着像一条正常的带货视频；复盘亮点：前 3 秒钩子剪得不错很吸引人、镜头衔接没有突然跳画面、不同视频的文字混在一起不会特别乱 → 5) 配音：Windows 语音合成失败、剪映自动操作截图超时，改装免费 edge-tts 生成中文配音并自动导入剪映时间轴。
+- 什么时候用 / 常见坑：同款商品有多条现成带货素材、想批量混剪复刻时用；截至 14:18 总结时仍未完成：ASMR 音效（咔嚓/咀嚼/滋滋）自动匹配、全流程一键出片都没打通，连一条完整自动化成品都还没做出来；作者结论：AI 自动化最费时间的不是让 AI 干活，而是第一次把整套流程跑通；原视频为香肠带货视频，13.9 万点赞、28.5 万转发。
+
+**适用场景**：做抖音/视频号带货、想把爆款混剪自动化的卖家与代运营。
+
+**怎么用它搞钱**：跑通"扔素材→自动混剪→配音→剪映工程"链路后，接"爆款带货视频混剪代做"，或按商品批量出混剪变体测转化。
+
+**来源**：[@kuibenge](https://x.com/kuibenge/status/2120380203881169125)（2026-11-11；正文与时间戳经 fxtwitter API 核验；复盘与总结为同作者 13:03 引用帖与 14:18 总结帖，API 直读核验）
+
+### @DDJCXX《双十一 5 个带货视频开源项目：从拆爆款到出片》
+
+**核心提炼**
+- 解决什么问题：做带货视频不知道用什么开源工具——一张清单从拆爆款到出片全覆盖。
+- 核心用法（5 个项目）：1) hypit（约 2.9 万 star）：丢一条火过的视频，Claude Code/Codex 拆成整套做法（画面/字幕/B-roll/特效），换脸换台词换素材，一条命令出 100 个版本，软件免费、生成模型另收费 → 2) rea-video（帖称约 6100 star，当日 GitHub API 实测 6645★、Apache-2.0）：逐镜头告诉你哪段实拍、哪段 AI、哪段代码，再给复刻方案，分清哪些自己拍、哪些用 AI、哪些写代码，10 月底新建、有中文说明 → 3) digital-human-koubo（API 实测 1919★、MIT）：一张照片加一句话出数字人口播，口型/配音/字幕/包装全包，作者一句话做了 27 秒直播带货广告，生成要付 Renoise 积分 → 4) UGC-Factory（API 实测 99★、MIT）：Claude Code 带货广告工厂，先问产品卖点，固定同一 AI 达人和商品，每镜头写台词和运镜，Seedance 2.0 出片拼成完整广告，接付费 Higgsfield → 5) Open-AI-UGC（API 实测 427★、MIT）：Arcads/MakeUGC 的开源版（那两家每月 110–500 美元），贴脚本、传人脸和商品图，选 Veo 3.1 或 Seedance 2 出片，自己部署、按用量付模型平台。
+- 什么时候用 / 常见坑：按环节选工具：拆爆款用 hypit/rea-video，数字人口播用 digital-human-koubo，批量广告用 UGC-Factory/Open-AI-UGC；hypit 与 rea-video 本库已有条目（hypit 为 GitHub 条目、rea-video 见 @Chenfacai0 取舍条目与本档另两条），本条只收清单选型；星数以当日 GitHub API 实测为准，帖内数字为作者约数。
+
+**适用场景**：做带货视频、需要一站式开源工具选型的创作者与小团队。
+
+**怎么用它搞钱**：按清单搭"拆爆款→换角→批量出片"代运营链路，或把 Open-AI-UGC 自部署后接 AI 达人广告单。
+
+**来源**：[@DDJCXX](https://x.com/DDJCXX/status/2120365909592117440)（2026-11-11；正文与时间戳经 fxtwitter API 核验；5 个仓库星数与 LICENSE 均经 GitHub API 当日核验）
+
+### @Zpozz_feng《rea-video 三个百分比拆解案例：代码动效 83%、假汉字识破 AI、75% 真人＋25% 即梦》
+
+**核心提炼**
+- 解决什么问题：看一条爆款不知道它到底是怎么做出来的——rea-video 把 REA（Reverse Engineer Anything）思路搬到视频：从现象一路追到实现，所有结论附带硬证据。
+- 核心用法（3 个案例）：1) 70 秒科技产品宣传片：外行以为烧 Sora/可灵 Credits，拆解为 83% 代码动效 + 12% 真实录屏——别调视频模型，直接让 Agent 写 Remotion 工程 1:1 复刻 → 2) 165 秒古风 AI MV（86 个镜头）：视觉大模型都误判为"影视剧实拍"，Agent 顺着工具标记、从大臣奏折上的"假汉字"当场识破 AI 生成，连歌是 Suno 写的都扒出来 → 3) 58 秒抖音爆款带货视频：配方是 75% 真人实拍口播稳住信任 + 25% 拿自己出镜视频在即梦生成"AI 带货切片"，同一场景 5 个穿插镜头合并成 1 次生成，省钱又逼真。
+- 什么时候用 / 常见坑：想弄清一条爆款的真实做法、判断该实拍/AI/代码哪条路时用；支持纯离线免费运行（原始视频准确率 99%+，为作者说法），平台压缩过的视频可接 Gemini/豆包做二次视觉复核；rea-video 项目本身已在拉片库收录（JuneYaooo/rea-video，API 实测 6645★、Apache-2.0、2026-11-11 推送），本条只收三个案例方法；与早档 @Chenfacai0 取舍条目同项目、案例不重复。
+
+**适用场景**：想拆解爆款真实做法、做复刻方案的创作者与代运营。
+
+**怎么用它搞钱**：用 rea-video 给客户出"爆款拆解报告＋复刻方案"，或按"75% 真人＋25% AI 切片"配方批量做带货切片。
+
+**来源**：[@Zpozz_feng](https://x.com/Zpozz_feng/status/2120350655940558851)（2026-11-11；正文与时间戳经 fxtwitter API 核验；项目作者 @yao_june12106）
+
+### @realfxw《rea-video"视频解剖刀"：字幕/贴纸/节奏/音频四维硬拆解》
+
+**核心提炼**
+- 解决什么问题：拆一条视频只能凭感觉看个大概——rea-video 逐镜头逆向：判断每段是实拍、代码还是 AI 生成，再给一整套视频复刻计划。
+- 核心用法（4 维拆解）：1) 字幕与排版：每句字幕起止时间精确提取，可导出 SRT/ASS，字体、颜色、描边、入场动画全扒出来 → 2) 特效与贴纸：画中画、Emoji、贴纸的位置和停留时间 → 3) 剪辑节奏：哪里切镜头、剪辑速度、有没有精准卡点踩节拍 → 4) 音频：分辨真人配音还是 AI 语音、BGM 是 AI 还是版权库、测 BPM、每个音效的精准落点。
+- 什么时候用 / 常见坑：需要逐帧级复刻规格（字幕时间码、贴纸停留、音效落点）时用；争议提醒：Reddit 上正方视其为新手学爆款拆解的神器（灯光师可反推布光、极客可微调生成引擎直到骗过检测），反方称其为"最快剽窃创意工具"、助长洗稿——复刻只学方法与结构，别 1:1 照搬他人原创；与本档 @Zpozz_feng 条目同项目、角度互补（那条讲三个案例，本条讲四维拆解与争议），不重复计项目本身；星数：帖称 2500+，当日 GitHub API 实测 6645★。
+
+**适用场景**：需要把爆款拆到字幕时间码与音效落点级别的复刻者与剪辑师。
+
+**怎么用它搞钱**：按四维拆解出"复刻施工图"接单，或用它验收自己翻拍的还原度。
+
+**来源**：[@realfxw](https://x.com/realfxw/status/2120335710683345339)（2026-11-11；正文与时间戳经 fxtwitter API 核验）
+
+### @FinanceYF5《一条 Claude 提示词复刻 2.55 亿播放 3D 短片：Opus 5.5 vs Fable 5.2 对比实验》
+
+**核心提炼**
+- 解决什么问题：想用一条提示词复刻 Zack D. Films 2.55 亿播放的 3D 短片风格，又想知道 Opus 5.5 与 Fable 5.2 谁更适合——同一提示词、同一台电脑各跑一次，直接比结果。
+- 核心用法（提示词结构，源自被引 @theoardley 原帖全文、经 fxtwitter API 直读核验）：1) 先问两件事再开工：故事一句话（一个真实奇事、一个人做一件奇怪的身体动作，如"他把 42 个气象气球绑在草坪椅上"；说"you pick"就给 3 个带来源链接的选题）+ 配音（默认免费 Kokoro 本地男声）→ 2) 全免费栈：Blender + 免费 MPFB 插件做人体、Python venv（FFmpeg/Kokoro/faster-whisper/numpy/Pillow），无需 API key，显卡本地 EEVEE 渲染 → 3) 画面铁律：只拍 CALM 镜头（快动作会僵），每 2–4 词字幕换一幅新画面、每镜必推近/环绕/漂移；镜头包：微距特写、英雄低角度、上帝视角慢旋转、跟随物、过肩、关键词 smash zoom、whip pan、发光高亮、场景内大号 3D 数字、思想气泡、场景内电视重播 → 4) 字幕：每次 2–4 词、白色粗圆体、约 64px、居中偏下 78%、柔和阴影无底框 → 5) 叙事：38–50 秒、100–140 词；首句即最惊人的身体动作（过去时、"He" 开头）；每句以 Then/Suddenly/So/Because/But/Later 起头、只写一个可见动作；背景在"You see,"之后才给；结尾是后果、不号召、不提问 → 6) 工程化：每阶段存盘（sources.md/script.json/voice.py/blender/build.py/look.py/sound.py/compose.py），先出半尺寸静帧 contact sheet 逐格检查再全渲，1080×1920 30fps，混音 -14 LUFS，另出 1008×1152 轻量版。
+- 什么时候用 / 常见坑：对比实验结果：同一台电脑、均不到 3 小时；差异：开场镜头（Opus 先给气球全景、Fable 先给男人跪椅）、场景内大号 3D 数字（Opus 5 个、Fable 2 个）、字幕样式（Fable 守规范白字柔和阴影，Opus 全大写粗描边）、结尾（Fable 落到史密森尼博物馆藏椅，Opus 落到 1500 美元罚款）；Opus 有几镜发灰、一镜开场灰屏；作者结论：各跑一次只能算案例、不能算排名；故事原型：1982 年气球草坪椅真人真事。
+
+**适用场景**：想用代码 3D 复刻 Zack D. Films 式"奇人奇事"短片、或对比 Opus 与 Fable 出片差异的创作者。
+
+**怎么用它搞钱**：用同一条提示词批量换"奇人奇事"选题做 3D 短片系列号，或接"3D 短片风格复刻"代做单。
+
+**来源**：[@FinanceYF5](https://x.com/FinanceYF5/status/2120408625776873499)（系列第 10 条，2026-11-11；正文与时间戳经 fxtwitter API 核验；被引 @theoardley 原帖全文提示词经 fxtwitter API 直读核验；与早档 @XunDavid80270 Fable 5.2 七步复刻不同源、本条为单提示词对比实验）
+
 ### video-to-prompt（imooooc）
 
 **核心提炼**
@@ -576,6 +641,8 @@
 发现好的复制爆款 prompt / skill，欢迎提 Issue 或 PR（格式见 CONTRIBUTING.md）。
 
 ## 更新日志
+
+- 2026-11-11 午档：新增 5 个 X 来源条目（@kuibenge Codex＋剪映自动混剪复刻带货视频（3 帖合一）、@DDJCXX 双十一 5 个带货视频开源项目清单、@Zpozz_feng rea-video 三个百分比拆解案例、@realfxw rea-video 四维硬拆解与争议、@FinanceYF5 一条提示词复刻 2.55 亿播放 3D 短片 Opus vs Fable 对比实验）；7 帖正文与时间戳均经 fxtwitter API 逐条直读核验（10:00／10:59／12:00／12:56／13:03／14:18／14:49 北京，FinanceYF5 被引 @theoardley 原帖全文提示词亦经 API 直读核验）；浏览器报告时间本次全部与 API 一致、无 1 小时偏差；5 个清单仓库星数与 LICENSE 均经 GitHub API 当日核验（digital-human-koubo 1919★ MIT、UGC-Factory 99★ MIT、Open-AI-UGC 427★ MIT、rea-video 6645★ Apache-2.0、hypit 29219★）；另刷新 hypit 星数 29098→29219；去重／排除：@songguoxiansen rea-video 置顶帖仅两句话无方法细节不计；rea-video 三帖（@Zpozz_feng 案例、@realfxw 四维拆解、@DDJCXX 清单内）角度互补、与早档 @Chenfacai0 取舍条目不重复；@DDJCXX 08:00 圆圈小球物理模拟帖与 @EthanLinAI hypit 英文帖均早于 09:00 窗口排除；16 组关键词×Latest＋5 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；GitHub 侧本档不做（一天一次、早档已做）；条目总数 46
 
 - 2026-11-11 早档：新增 9 个 X 来源条目（@MinLiBuilds 焚诀 Skill、@ailockup AI Motion Control 舞蹈动作迁移、@senaafterdark AI 换壳法、@XunDavid80270 Fable 5.2 七步复刻、@Eddie_lai96 爆款模板化对标、@daodao166888 3D 小人哑铃拆解、@Chenfacai0 HyperFrames 与 REA-Video 取舍、@EndrewBiz 0.30 美元克隆换角色、@everygen_ai Everygen Clone（边界））+ 1 个 GitHub 项目条目（imooooc/video-to-prompt）；9 帖正文与时间戳均经 fxtwitter API 逐条直读核验（11-05 11:46／11-10 00:17／19:39／21:07／22:37／23:48、11-11 01:40／03:00／04:57 北京；daodao166888 模板细节、senaafterdark Grok 赛道数据、MinLiBuilds 解读帖补充仅浏览器侧读取）；另刷新 9 个老条目 star（awesome-opus5-5-videos 4370→14740、hypit 21397→29098、AI-Youtube-Shorts-Generator 5310→5913、viral-video-replicator 51→55、dance-video-to-prompt 146→148、LunarXuan 63→69、luozhilzh 48→53、coolxxxx 23→26、zhengzhentao86 59→62）；去重／排除：@TraceJie 白萝卜 Article 与编剧库 11-06 早档已收条目同源、跨库去重；@aikangarooking 仓颉 Skill 3.0 为长视频知识蒸馏、类目漂移记信号；gracech0322-cmd/promptlab-image-video-to-prompt 59★ 仍暂缓（README 明言不支持平台在线视频分析）；条目总数 41
 
