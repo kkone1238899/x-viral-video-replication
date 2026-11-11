@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：拆解爆款做同款，快速涨粉。
 
-**来源**：[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) · ⭐4370 · 更新于 2026-10-12
+**来源**：[yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) · ⭐14740 · 更新于 2026-10-13
 
 ### viral-video-replicator
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：对标账号快速复制起号。
 
-**来源**：[dingtom336-gif/viral-video-replicator](https://github.com/dingtom336-gif/viral-video-replicator) · ⭐51 · 更新于 2026-10-26
+**来源**：[dingtom336-gif/viral-video-replicator](https://github.com/dingtom336-gif/viral-video-replicator) · ⭐55 · 更新于 2026-11-07
 
 ### hypit
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：矩阵号批量复刻爆款起号，或给品牌做"同款爆款结构"代运营。
 
-**来源**：[hypit-ai/hypit](https://github.com/hypit-ai/hypit) · ⭐21397 · 更新于 2026-10-09
+**来源**：[hypit-ai/hypit](https://github.com/hypit-ai/hypit) · ⭐29098 · 更新于 2026-11-09
 
 ### AI-Youtube-Shorts-Generator
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：给长视频博主/机构做切片代运营（按条收费），或自己切矩阵号涨粉带货。
 
-**来源**：[Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · ⭐5310 · 更新于 2026-10-11
+**来源**：[Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · ⭐5913 · 更新于 2026-11-10
 
 ### @brainextends《AI UGC 0 成本复刻五步法》
 
@@ -177,7 +177,7 @@
 
 **怎么用它搞钱**：把竞品爆款批量反推成提示词翻拍起号，或提供“爆款视频反推拆解”代拆服务按条收费。
 
-**来源**：[LunarXuan/video-prompt-reverse](https://github.com/LunarXuan/video-prompt-reverse) · ⭐63 · 更新于 2026-10-23（最近代码提交 2026-09-04）
+**来源**：[LunarXuan/video-prompt-reverse](https://github.com/LunarXuan/video-prompt-reverse) · ⭐69 · 更新于 2026-11-09（最近代码提交 2026-09-04）
 
 ### video-prompt-reverse（luozhilzh）
 
@@ -190,7 +190,7 @@
 
 **怎么用它搞钱**：用“还原 + 惊艳增强”两档给商家出同款爆款结构代做单，或把反推 + 迭代做成复刻工作流卖给短视频团队。
 
-**来源**：[luozhilzh/video-prompt-reverse](https://github.com/luozhilzh/video-prompt-reverse) · ⭐48 · MIT · 更新于 2026-10-28
+**来源**：[luozhilzh/video-prompt-reverse](https://github.com/luozhilzh/video-prompt-reverse) · ⭐53 · MIT · 更新于 2026-11-09
 
 ### video-prompt-reverse-engineer（coolxxxx）
 
@@ -203,7 +203,7 @@
 
 **怎么用它搞钱**：接 Seedance 同款复刻代做单（广告/短剧/MV），或把“参考片 → Seedance 原生提示词”做成标准化交付流程。
 
-**来源**：[coolxxxx/video-prompt-reverse-engineer](https://github.com/coolxxxx/video-prompt-reverse-engineer) · ⭐23 · MIT · 更新于 2026-10-24（最近代码提交 2026-09-03）
+**来源**：[coolxxxx/video-prompt-reverse-engineer](https://github.com/coolxxxx/video-prompt-reverse-engineer) · ⭐26 · MIT · 更新于 2026-11-10（最近代码提交 2026-09-03）
 
 ### reverse-video-prompt（zhengzhentao86）
 
@@ -216,7 +216,7 @@
 
 **怎么用它搞钱**：给电商品牌做“爆款带货视频同款复刻 + 迭代优化”代运营，按条或按效果收费。
 
-**来源**：[zhengzhentao86/reverse-video-prompt](https://github.com/zhengzhentao86/reverse-video-prompt) · ⭐59 · MIT · 更新于 2026-10-28
+**来源**：[zhengzhentao86/reverse-video-prompt](https://github.com/zhengzhentao86/reverse-video-prompt) · ⭐62 · MIT · 更新于 2026-11-10
 
 ### dance-video-to-prompt（CattleZ）
 
@@ -229,7 +229,7 @@
 
 **怎么用它搞钱**：批量反推舞蹈/穿搭爆款做同款矩阵号，或接“动作类爆款反推 + 卡点复刻”代做单。
 
-**来源**：[CattleZ/dance-video-to-prompt](https://github.com/CattleZ/dance-video-to-prompt) · ⭐146 · 更新于 2026-10-27（最近代码提交 2026-08-22）
+**来源**：[CattleZ/dance-video-to-prompt](https://github.com/CattleZ/dance-video-to-prompt) · ⭐148 · 更新于 2026-11-07（最近代码提交 2026-08-22）
 
 ### @XunDavid80270《火柴人动画 6 步复刻：开源 Skill 实操》
 
@@ -415,6 +415,139 @@
 
 **来源**：[@ChatGptAstra](https://x.com/ChatGptAstra/status/2115766780711080149)（2026-10-29；正文与时间戳经 fxtwitter API 核验）
 
+### @MinLiBuilds《逐帧复刻 MV 的〈焚诀〉Skill 开源》
+
+**核心提炼**
+- 解决什么问题：想逐帧复刻一支 MV 却不知从何下手——把拆镜头、首尾帧、提示词、本地 H3 生成全塞进一个 Skill，配好模型 API 丢给 Agent 就能跑。
+- 核心用法（4 步）：1) 拆镜头：把参考 MV 按镜头拆开，逐镜定动作、机位、光线方向 → 2) 生成首尾帧：每镜先出首尾帧，定死站位、服装、道具、背景透视 → 3) 三遍检查：首尾帧、单镜头生成、拼接前各查一遍，人物和构图对不上就别往下走 → 4) 配好模型 API 交给 Agent 跑本地 H3 生成，也支持云端视频模型。
+- 什么时候用 / 常见坑：复刻 MV/剧情短片、逐镜精度要求高的翻拍时用；作者点明的大坑：最重要的不是视频模型，而是拆镜头、首尾帧与检查，人物构图对不上后面再好的模型也白搭；GitHub 未识别仓库 LICENSE，商用边界未明，《焚诀》版权仍属权利方（解读帖提醒）；"模型是渲染器、分镜是施工图"为 @zxzc_621 11 月 10 日解读帖补充，仅浏览器侧读取。
+
+**适用场景**：想逐帧复刻 MV 或剧情短片、有 Agent 工作流的创作者。
+
+**怎么用它搞钱**：用 Skill 批量复刻热门 MV/短片结构做系列号，或接"MV 同款复刻"代做单。
+
+**来源**：[@MinLiBuilds](https://x.com/MinLiBuilds/status/2118188301123514550)（2026-11-05；正文与时间戳经 fxtwitter API 核验；配套仓库 [limin112/min-skill](https://github.com/limin112/min-skill/tree/main/skills/copy-kakasi) 经 GitHub API 核验真实，630★、2026-11-05 推送，SKILL.md 约 12KB）
+
+### @ailockup《AI Motion Control：用一张照片复制爆款舞蹈动作》
+
+**核心提炼**
+- 解决什么问题：想复制爆款舞蹈视频的动作，却没有 3D 绑定或动作捕捉设备——用 Gemini 的动作迁移，把参考视频的舞步直接搬到一张新角色照片上。
+- 核心用法（4 步）：1) 打开 Google Gemini 网页版，选 Gemini Pro 模型（免费）→ 2) 上传两个输入：目标编舞参考视频 + 想跳舞的角色静态照片 → 3) 用动作迁移提示词下令，把视频里的舞步复刻到照片人物身上，动作保真度约 80%–90% → 4) 破 10 秒上限：先在 CapCut/Clipchamp 把源视频切成连续的 9 秒片段，逐段处理再按顺序拼回导出。
+- 什么时候用 / 常见坑：复刻舞蹈/律动类爆款动作时用；正文未给具体提示词原文，须自己写迁移提示词；教程另附一条 YouTube 视频讲解，未逐条核对。
+
+**适用场景**：做舞蹈、律动、变装类短视频，想换角色复刻爆款动作的创作者。
+
+**怎么用它搞钱**：把爆款舞蹈换角色批量翻拍做系列号，或接"舞蹈动作换角复刻"代做单。
+
+**来源**：[@ailockup](https://x.com/ailockup/status/2119826799400214769)（2026-11-10；Article 全文经 fxtwitter API 直读核验）
+
+### @senaafterdark《AI 换壳法：复刻低粉爆款视频去带货》
+
+**核心提炼**
+- 解决什么问题：不会写脚本也想蹭爆款带货——不自己写脚本，直接找现成的低粉爆款视频换脸复刻，借它的运镜和节奏卖货。
+- 核心用法（4 步）：1) 去 TikTok 刷出低粉爆款视频（低粉高播才是真爆款信号）→ 2) 下载下来丢进 Kling 3.0 或 Seedance 2.5 → 3) 换一张固定 AI 人设脸 → 4) 一键复刻原片的运镜和节奏，换成自己的带货内容。
+- 什么时候用 / 常见坑：海外短视频带货、想低成本测爆款结构时用；方法来自帖内转述的"外网博主"做法，未独立核验其收益；Grok 推荐的赛道数据来自评论区 Grok 回复（仅浏览器侧读取）：TikTok Shop 基础 view-to-purchase 转化率约 0.05%，冲动低价品更高；唇部护理（丰唇精华/唇膜）佣金 15%–25%、毛利 60%+；足部去角质/修脚器为另一赛道，第三赛道正文未给全。
+
+**适用场景**：做海外短视频带货、想用爆款结构快速测品的卖家与代运营。
+
+**怎么用它搞钱**：用换壳法批量复刻低粉爆款带货，或按赛道给商家做"爆款换壳代做"服务。
+
+**来源**：[@senaafterdark](https://x.com/senaafterdark/status/2120119025523212582)（2026-11-10；正文与时间戳经 fxtwitter API 核验；Grok 赛道数据为评论区回复，仅浏览器侧读取）
+
+### @XunDavid80270《5.75 美元出 4K 动画？7 步复刻 Fable 5.2 代码出片》
+
+**核心提炼**
+- 解决什么问题：看到一条 59 秒 4K 动画只花 5.75 美元就想复刻，却不知道这价只算了显卡钱——作者按官方价把 token 费、视频模型对比、改稿费全算了一遍，并给出 7 步照做流程。
+- 核心用法（7 步）：1) 装 Blender（免费）+ Claude Code，模型选 Fable 5.2（预算紧可用 Opus 5.5，官方价约一半）→ 2) 写镜头表：总时长、镜头数、每镜几秒、画面风格，第一次别超过 15 秒、3 个镜头 → 3) 让 Claude 写 Blender Python 脚本建场景，先只出 1 张 1080p 静帧确认构图和灯光 → 4) 做 720p 低采样低清预览，先看动作和节奏，别一上来就渲 4K → 5) 改稿只改参数：灯光、机位、颜色写成脚本开头的变量 → 6) 定稿后上云渲染：RunPod 按秒计费，10 张卡同时跑 → 7) FFmpeg 拼帧，加字幕和配乐。
+- 成本账（作者按官方价测算）：源头案例 @rileybrown 直播：Fable 5.2 一句提示词、Blender 搭房间、13 个镜头、租 10 张显卡 52 分钟渲完 4K，渲染费 5.75 美元，不到一天 46 万浏览、5000+ 收藏；但 5.75 美元只是渲染费，token 费另算（Fable 5.2 输入 8 美元/输出 40 美元每百万 token，轻度约 13 美元、重度约 36 美元，Fast 模式翻倍，均为作者假设测算、非实测）；同样 59 秒 4K：Google Omni 1.2 Flash 约 12.3 美元，视频模型单条最长 15 秒、拼 4 段、平均每段抽 3 次约 37 美元；代码出片便宜在改稿：重渲一个 5 秒镜头 4K 约 0.49 美元、1080p 预览约 0.12 美元。
+- 什么时候用 / 常见坑：产品展示、固定场景系列片、片头片尾数据动画、科普流程演示适合；真人表演表情、写实人物动物、急单、不会验收的单别碰；报价思路：第一条按"脚本搭建费"收，后面每次改稿按次收，客户买的是"改 10 次也不走样"；作者判断：代码出片真正便宜的不是第一次，而是第二次、第三次改稿。
+
+**适用场景**：接产品展示/系列片/数据动画单、想用代码出片替代视频模型抽卡的创作者与工作室。
+
+**怎么用它搞钱**：用"改稿便宜且不走样"接产品展示与系列片单，按搭建费 + 改稿次数收费；或把 7 步流程做成代码出片代做服务。
+
+**来源**：[@XunDavid80270](https://x.com/XunDavid80270/status/2120141252003823644)（2026-11-10；Article 全文经 fxtwitter API 直读核验；与作者 10-29 已收的火柴人 6 步复刻/历史动画频道格式/100 集系列格式提示词不同源）
+
+### @Eddie_lai96《爆款模板化对标稳赚方法》
+
+**核心提炼**
+- 解决什么问题：对标爆款总在分析阶段就跑偏——作者指出大部分对标失败是因为分析本身带偏差，而"100% 对标"的办法是选简单到不需要分析的视频。
+- 核心用法（4 条）：1) 认清显性与隐性因素：一个视频能爆必有多种因素，显性因素能分析得出，隐性因素分析不出来，大部分对标失败在分析阶段就失败了 → 2) 选简单的对标：找简单到看一眼就能复刻的视频，等于绕过分析环节 → 3) 对标三标准：模板化（风格统一、一看就懂、可批量套用）、高赞化（多多益善、最好低粉高赞）、需求化（对应用户需求、看完会产生付费冲动）→ 4) 留护城河：保留一个不能被自动化的环节（认知或制作），不然模板一公开就只剩卷量。
+- 案例与窗口期：英语记单词为超级刚需，词根/谐音/图形记忆三类视频用 AI + 工作流模板可批量生产；纯流量路线仅靠平台流量激励日赚几百，有后端产品承接收入再上一个量级；窗口期只有 1–2 个月，一个低粉高赞模板化爆款出现后很快会被同行拆解复刻、红利吃光。
+- 什么时候用 / 常见坑：找低成本对标方向、判断一个爆款值不值得跟时用；收入数字为作者说法，未独立核验；小众领域同样存在高赞模板化爆款，对标成本极低。
+
+**适用场景**：找对标方向起号、做模板化批量内容的工作室与个人创作者。
+
+**怎么用它搞钱**：按三标准筛出低粉高赞模板化爆款批量复刻，趁 1–2 个月窗口期吃流量红利；或把"对标筛选 + 模板化生产"做成起号服务。
+
+**来源**：[@Eddie_lai96](https://x.com/Eddie_lai96/status/2120163841967525899)（2026-11-10；正文与时间戳经 fxtwitter API 核验）
+
+### @daodao166888《不露脸 3D 小人教哑铃动作的爆款拆解》
+
+**核心提炼**
+- 解决什么问题：AI 视频好做了，但同样的画面同样的流程，大多视频只有几万播放——作者拆解后指出爆的不是账号而是选题，先找准用户本来就会搜的老问题。
+- 核心用法（3 步复刻）：1) 打开 TikTok/YouTube 搜"dumbbell workout at home"这类词，找近 30 天还在涨、标题一眼能看懂的老问题，别盯着今天热搜追赶 → 2) 只记普通人早就想搜的题，写成对照样本笔记：账号名、条数、粉丝、单条播放 → 3) 用手头现成的流程先出一条最短能测的片。
+- 对照样本与结论：TikTok @joinyoucan 110 万粉、900 万赞，热门单条最高 940 万播放，前十几条基本 300–900 万；但同样画面同样流程、最近发的视频大多只有几万播放——爆的从来不是账号，而是那几个选题；复刻"灰色 3D 小人 + 目标肌肉发光 + 一条视频练遍全身"的账号，核心是把"练哪块、怎么练"做成一眼看懂、存下来就能照做的工具型内容，再把流量导回自己的 App。
+- 全套提示词模板（帖内附模板，细节仅浏览器侧读取）：选题公式为部位组合 + 器械限制 + 结果承诺/纠错焦虑；55 秒脚本结构：0–4 秒开场提问、4–50 秒 5 个部位各约 10 秒（每部位 2 个镜头）、最后 2 秒引导收藏、3 秒黑屏 App 页；静帧风格：浅灰 3D 人偶、目标肌群亮红橙光、顶部留白 20%；后期用剪映加选肌条、字幕、App 页，配音 ElevenLabs Adam，音乐 118 BPM；进阶可用 Claude Skill 把静帧→动画→配音→音乐→选肌条→1080×1920 全流程自动化。
+- 什么时候用 / 常见坑：做健身/教学类工具型账号、想从"选题"而非"画质"上复刻爆款时用；11 月 3 日同题短帖（@workitapp 样本）为同一方法的简版，不另计。
+
+**适用场景**：做健身、教学类工具型短视频，想靠选题而非画质复刻爆款的创作者。
+
+**怎么用它搞钱**：用"老问题 + 工具型内容 + 导回自家 App"的结构做系列号涨粉导流，或接健身/教学类账号的对标复刻单。
+
+**来源**：[@daodao166888](https://x.com/daodao166888/status/2120181898584699280)（2026-11-10；正文与时间戳经 fxtwitter API 核验；模板细节来自帖内配图/模板，仅浏览器侧读取）
+
+### @Chenfacai0《HyperFrames reverse-any-video 与 REA-Video 取舍指南》
+
+**核心提炼**
+- 解决什么问题：两个工具都能把视频倒推还原，不知道该用哪个——按目标二选一：要原样复刻就选 HyperFrames，要弄清做法就选 REA-Video。
+- 核心用法（2 条取舍规则）：1) 目标是原样复刻一段视频 → HyperFrames（HeyGen 新上线）：把参考视频喂给 AI，还原镜头调度、字幕内容与动态效果，产出一份可继续编辑的 HyperFrames 工程文件，支持逐帧比对原片核验还原程度，产品宣传片、复杂动效、口播类混剪都适合 → 2) 目标是弄清一条视频是怎么做出来的 → REA-Video（开源免费）：逐个镜头判断属于实拍、AI 生成还是代码动效，把运镜、提示词、字幕、音频、剪辑节奏逐一拆解，最终给一份带 keyframe 的复刻方案。
+- 什么时候用 / 常见坑：按目标选工具，别反着用；价格：HyperFrames reverse-any-video 为 Pro 会员专享，每月 25 美元，REA-Video 开源完全免费；HyperFrames 仓库 heygen-com/hyperframes 经 GitHub API 核验 82,331★、Apache-2.0；REA-Video 已在拉片库收录（JuneYaooo/rea-video），本条只收取舍规则。
+
+**适用场景**：需要在"原样复刻"与"拆解方法论"之间选工具的创作者与团队。
+
+**怎么用它搞钱**：原样复刻接产品宣传片/口播混剪单用 HyperFrames，拆解方法论做复刻方案服务用 REA-Video，按目标报价。
+
+**来源**：[@Chenfacai0](https://x.com/Chenfacai0/status/2120209874445533225)（2026-11-11；正文与时间戳经 fxtwitter API 核验）
+
+### @EndrewBiz《0.30 美元克隆爆款视频换新角色》
+
+**核心提炼**
+- 解决什么问题：想克隆一条爆款视频换自己的角色，又不想请网红、不想用 Seedance 2.5——只截 hook、只换角色，一条提示词 0.30 美元搞定。
+- 核心用法（4 步）：1) 在 TikTok 找一条想复刻的爆款视频 → 2) 只截取其中的 hook 部分 → 3) 做一张新角色表（character sheet）→ 4) 把原视频 + 角色图一起交给 Wan 3.0 Prime，用一条换角提示词生成：只把原角色换成新角色，新角色的脸、头发、身体、服装与细节 100% 保留；动作、表情、运镜、构图、光线、背景、节奏全部跟原片；无缝写实换角，其余一律不动。
+- 什么时候用 / 常见坑：只换角色的短视频克隆、想低成本测爆款 hook 时用；成本 0.30 美元为作者说法，未独立核验；11 月 3 日原帖为同一方法 0.50 美元版（当时称经 kie 平台调用 Wan 3.0 Prime），本帖为更新版，不另计；提示词规则按原文意译，未逐字照录。
+
+**适用场景**：想低成本把爆款视频换成自己角色翻拍的创作者与带货号。
+
+**怎么用它搞钱**：用一条爆款 hook 换多个角色批量出变体测转化，或接"爆款换角克隆"代做单按条收费。
+
+**来源**：[@EndrewBiz](https://x.com/EndrewBiz/status/2120230011160457537)（2026-11-11；正文与时间戳经 fxtwitter API 核验；11 月 3 日 0.50 美元原帖同源不另计）
+
+### @everygen_ai《Everygen Clone：不用重拍，直接克隆爆款视频》（边界）
+
+**核心提炼**
+- 解决什么问题：复刻爆款视频过去意味着整条重拍——Everygen Clone 上线后只需 Clone：Motion Transfer（你的脸和身体、对方的精确动作）、Object Swap（替换镜头里的任意产品），用单张参考图添加人物、服装、产品或场景。
+- 什么时候用 / 常见坑：边界条目——官方账号产品上线帖，正文未给具体操作步骤与价格，只有两项能力名；价值在"新克隆工具上线"这一信号，实操细节待后续实测帖补充。
+
+**适用场景**：想直接克隆爆款视频换脸/换产品的创作者，先记下工具名等实测。
+
+**怎么用它搞钱**：待实测：若 Motion Transfer 与 Object Swap 好用，可接"爆款视频换脸/换产品"代做单。
+
+**来源**：[@everygen_ai](https://x.com/everygen_ai/status/2120259666307367124)（2026-11-11；正文与时间戳经 fxtwitter API 核验）
+
+### video-to-prompt（imooooc）
+
+**核心提炼**
+- 解决什么问题：看到参考视频却写不出导演级的生成提示词——把视频丢进浏览器，Gemini 直接反推成带时间码的分镜提示词，复制就能拿去生成。
+- 核心用法（3 步）：1) 本地跑起来（pnpm install + pnpm dev）或打开在线 demo，填自己的 Gemini API key（只存浏览器 localStorage，无账号、无服务器）→ 2) 拖入参考视频（MP4/MOV/WebM 等，最大 2GB），选 gemini-2.5-pro（效果最好）或 flash（更快）→ 3) 拿到整秒时间码分镜提示词（3–6 个节拍，台词逐字放进对应节拍不拆散），一键交给 Seegen.ai 渲染，或复制到 Veo/Sora/Seedance/Kling/Runway。
+- 什么时候用 / 常见坑：把参考片逆向成可执行提示词时用；工程上有两处关键选择：2 FPS 采样（Gemini 默认 1 FPS 会吞掉快切镜头的整段内容）、MEDIA_RESOLUTION_HIGH（每帧视觉 token 翻倍，细节才不会丢）；18MB 以下视频直接 base64 一次传完，更大的走 Gemini Files API；Roadmap 中的分模型预设与本地化 UI 尚未交付。
+
+**适用场景**：想把参考爆款逆向成可直接生成提示词的创作者与工作室。
+
+**怎么用它搞钱**：把竞品爆款批量反推成提示词翻拍起号，或提供"爆款视频反推拆解"代拆服务按条收费。
+
+**来源**：[imooooc/video-to-prompt](https://github.com/imooooc/video-to-prompt) · ⭐21 · MIT · 更新于 2026-11-07
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -443,6 +576,8 @@
 发现好的复制爆款 prompt / skill，欢迎提 Issue 或 PR（格式见 CONTRIBUTING.md）。
 
 ## 更新日志
+
+- 2026-11-11 早档：新增 9 个 X 来源条目（@MinLiBuilds 焚诀 Skill、@ailockup AI Motion Control 舞蹈动作迁移、@senaafterdark AI 换壳法、@XunDavid80270 Fable 5.2 七步复刻、@Eddie_lai96 爆款模板化对标、@daodao166888 3D 小人哑铃拆解、@Chenfacai0 HyperFrames 与 REA-Video 取舍、@EndrewBiz 0.30 美元克隆换角色、@everygen_ai Everygen Clone（边界））+ 1 个 GitHub 项目条目（imooooc/video-to-prompt）；9 帖正文与时间戳均经 fxtwitter API 逐条直读核验（11-05 11:46／11-10 00:17／19:39／21:07／22:37／23:48、11-11 01:40／03:00／04:57 北京；daodao166888 模板细节、senaafterdark Grok 赛道数据、MinLiBuilds 解读帖补充仅浏览器侧读取）；另刷新 9 个老条目 star（awesome-opus5-5-videos 4370→14740、hypit 21397→29098、AI-Youtube-Shorts-Generator 5310→5913、viral-video-replicator 51→55、dance-video-to-prompt 146→148、LunarXuan 63→69、luozhilzh 48→53、coolxxxx 23→26、zhengzhentao86 59→62）；去重／排除：@TraceJie 白萝卜 Article 与编剧库 11-06 早档已收条目同源、跨库去重；@aikangarooking 仓颉 Skill 3.0 为长视频知识蒸馏、类目漂移记信号；gracech0322-cmd/promptlab-image-video-to-prompt 59★ 仍暂缓（README 明言不支持平台在线视频分析）；条目总数 41
 
 - 2026-10-29 晚档：新增 2 个 X 来源条目（@leaf_sanren 抖音爆款 Muse 视频反推提示词两例、@ChatGptAstra Codex＋Renoise 对话式复刻知识短片（边界）；2 帖正文与时间戳均经 fxtwitter API 逐条直读核验；10 组关键词×since:2026-10-29 Latest＋7 位作者时间线抽查，4 位作者时间线因收尾指令未查完、如实注明未声称已查），条目总数 31
 - 2026-10-29 午档：新增 4 个 X 来源条目（@jinchuanai 一句话 Recast 复刻 5 步、@XunDavid80270 历史动画频道格式复刻规则、@XunDavid80270 能拍 100 集的系列格式提示词、@dking_ai LibTV 公开项目换故事复刻法（边界）；4 帖正文与时间戳均经 fxtwitter API 逐条直读核验，5 问提示词全文经浏览器任务补核；补查 @TheMattBerman/@TraceJie/@jackchen1919/@jonnyscales/@starkljm 今日时间线无新增命中），条目总数 29
